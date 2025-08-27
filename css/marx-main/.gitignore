@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+bower_components
+_site
+public
+_posts
+components
+build
+tmp/*
+!tmp/.keep
+node_modules
