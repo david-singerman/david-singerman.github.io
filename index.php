@@ -9,13 +9,19 @@
 
 </head>
 
+<header>
+    <?php include "includes/nav.php" ?>
+
+    <h1>David Singerman | Home</h1>
+</header>
+
 <body>
    
     <main>
  
-    <h1>David Singerman</h1>
+    <!--<h1>David Singerman</h1>
 
-    <nav>
+     <nav>
     
     <a href="index.html">Home</a>
     <a href="cv.html">CV</a>
@@ -24,7 +30,7 @@
     <a href="teaching.html">Teaching</a>
     <a href="research.html">Research</a>
     <a href="/blog/index.html">Blog</a>
-    </nav>
+    </nav> -->
 
     <img src="images/colonnade.jpg">
 
